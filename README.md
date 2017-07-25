@@ -1,2 +1,2 @@
 # lab
-Random thoughts and playground
+Random thoughts and playground!
